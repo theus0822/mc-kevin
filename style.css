@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Ewert&display=swap');
+
+body{
+    background: linear-gradient(#00e08e, #00e08e);
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 4rem;
+    text-align: center;
+    text-shadow: 2px 2px #000000;
+    font-family:fonte1;
+    font-weight: 500;
+    font-style: normal;
+}
+
+img{
+    display: block;
+    margin: auto;
+    border-radius: 8px;
+}
+
+p{
+  font-family: font-family, "Bebas Neue", sans-serif; 
+  font-size: 1.5rem;
+  color: #000000; 
+  text-indent: 3%;
+  padding: 1rem;
+}
+@font-face{
+    font-family: fonte1 ;
+    src: url(font/Funk.ttf);
+}
